@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Yassine</h1>
-<h3 align="center">Software Technology Student | Gamedeveloper For Fun </h3>
+<h3 align="center">BSc Software Technology Student | Gamedeveloper For Fun </h3>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
