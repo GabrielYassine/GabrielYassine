@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Yassine</h1>
 <h3 align="center">Software Technology Student | Gamedeveloper For Fun </h3>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/gabriel-yassine-058110287/" target="_blank" rel="noreferrer">LinkedIn</a></p>
 
 <p align="left">
