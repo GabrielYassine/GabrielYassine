@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Yassine</h1>
 <h3 align="center">Software Technology Student | Gamedeveloper For Fun </h3>
 
+<h3 align="left">About Me:</h3>
+<p align="left">
+  I am currently pursuing a Bachelor's degree in Software Technology, where I constantly challenge myself to explore new areas in the field. I have a passion for learning and enjoy working on side projects to expand my skill set. My enthusiasm for technology drives me to continually seek out new opportunities and experiences in software development and game development.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/gabriel-yassine-058110287/" target="_blank" rel="noreferrer">LinkedIn</a></p>
 
